@@ -1,1 +1,1 @@
-# class25-trashbin
+# CP-2
